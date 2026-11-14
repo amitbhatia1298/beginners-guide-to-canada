@@ -1,0 +1,54 @@
+
+backend:
+  name: github
+  repo: amitbhatia1298/beginners-guide-to-canada
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+site_url: https://beginnersguidetocanada.ca
+display_url: https://beginnersguidetocanada.ca
+
+collections:
+  - name: "articles"
+    label: "Articles"
+    folder: "content/articles"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
+
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
+
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - "Immigration News"
+          - "Newcomer Guides"
+          - "Jobs and Careers"
+          - "Banking and Finance"
+          - "Housing"
+          - "Healthcare"
+          - "Education"
+          - "Life in Canada"
+
+      - label: "Featured Image"
+        name: "image"
+        widget: "image"
+        required: false
+
+      - label: "Summary"
+        name: "description"
+        widget: "text"
+
+      - label: "Article Content"
+        name: "body"
+        widget: "markdown"
