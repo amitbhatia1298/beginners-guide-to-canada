@@ -1,10 +1,10 @@
 
 backend:
-  base_url: https://bg2c-github-auth.amitbhatia1298.workers.dev
-    auth_endpoint: auth
   name: github
   repo: amitbhatia1298/beginners-guide-to-canada
   branch: main
+  base_url: "https://bg2c-github-auth.amitbhatia1298.workers.dev"
+  auth_endpoint: auth
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
