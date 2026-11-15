@@ -1,5 +1,5 @@
 ---
-title: "\tCanada CRS Score Explained: How Express Entry Points Work in 2026"
+title: "\tCanada CRS Score Explained: How Express Entry Points Work in 20266"
 date: 2026-11-15T13:46:00.000-05:00
 category: Immigration & Permanent Residence
 description: Understand Canada's CRS scoring system, how points are calculated
