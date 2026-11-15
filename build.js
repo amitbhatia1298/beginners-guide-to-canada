@@ -90,11 +90,11 @@ html = html.replace(
   /<!-- BG2C ARTICLES START -->[\s\S]*?<!-- BG2C ARTICLES END -->/g,
   ""
 );
-const guidesBoundary = '</section>\\n<section class="section band" id="topics">';
-if (!html.includes(guidesBoundary)) {
-  throw new Error('Could not find the end of the featured guides section in index.html');
+const topicsIndex = html.indexOf('<section class="section band" id="topics">');
+if (topicsIndex === -1) {
+  throw new Error('Could not find the Explore by Topic section in index.html');
 }
-html = html.replace(guidesBoundary, '</section>\\n' + section + '\\n<section class="section band" id="topics">');
+html = html.slice(0, topicsIndex) + section + '\n' + html.slice(topicsIndex);
 fs.writeFileSync(home,html);
 
 console.log(`Generated ${articles.length} article pages.`);
