@@ -1,4 +1,3 @@
-
 backend:
   name: github
   repo: amitbhatia1298/beginners-guide-to-canada
@@ -24,33 +23,30 @@ collections:
       - label: "Title"
         name: "title"
         widget: "string"
-
       - label: "Publish Date"
         name: "date"
         widget: "datetime"
-
       - label: "Category"
         name: "category"
         widget: "select"
         options:
-          - "Immigration News"
-          - "Newcomer Guides"
-          - "Jobs and Careers"
-          - "Banking and Finance"
-          - "Housing"
-          - "Healthcare"
-          - "Education"
+          - "Immigration & Permanent Residence"
+          - "Work & Careers"
+          - "Study in Canada"
+          - "Visit Canada"
+          - "Canadian Citizenship"
+          - "Housing & Real Estate"
+          - "Banking, Finance & Taxes"
+          - "Healthcare & Insurance"
           - "Life in Canada"
-
+          - "Provinces & Territories"
       - label: "Featured Image"
         name: "image"
         widget: "image"
         required: false
-
       - label: "Summary"
         name: "description"
         widget: "text"
-
       - label: "Article Content"
         name: "body"
         widget: "markdown"
