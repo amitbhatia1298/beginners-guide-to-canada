@@ -90,7 +90,10 @@ html = html.replace(
   /<!-- BG2C ARTICLES START -->[\s\S]*?<!-- BG2C ARTICLES END -->/g,
   ""
 );
-html = html.replace("</main>", section + "\n</main>");
+html = html.replace(
+  /(<section class="section" id="guides">[\\s\\S]*?<\\/section>)/,
+  "$1\\n" + section
+);
 fs.writeFileSync(home,html);
 
 console.log(`Generated ${articles.length} article pages.`);
