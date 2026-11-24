@@ -8,8 +8,8 @@ backend:
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
 
-site_url: https://beginnersguidetocanada.ca
-display_url: https://beginnersguidetocanada.ca
+site_url: https://www.beginnersguidetocanada.ca
+display_url: https://www.beginnersguidetocanada.ca
 
 collections:
   - name: "articles"
