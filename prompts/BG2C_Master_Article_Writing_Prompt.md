@@ -1,7 +1,7 @@
 # BG2C Master Article Writing Prompt
 ## Beginners Guide to Canada
 
-**Purpose:** This is the permanent editorial and writing standard for all articles created for the Beginners Guide to Canada (BG2C) website. Apply it to the 15 foundational articles, supporting articles, news updates, explainers, comparisons and future editorial work.
+**MANDATORY FOR EVERY BG2C ARTICLE:** Apply this master prompt to every article created, commissioned, researched, drafted, rewritten, updated, refreshed, or prepared for publication on the Beginners Guide to Canada (BG2C) website—without exception. This applies to all categories, formats, authorship workflows, one-off requests, the 15 foundational articles, supporting articles, breaking news, explainers, comparisons, SEO updates and future editorial work. Do not treat this prompt as limited to the core/pillar articles. If a user asks for a BG2C article, automatically follow this complete standard unless the user explicitly overrides a particular requirement.
 
 ---
 
