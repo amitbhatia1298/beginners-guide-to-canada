@@ -104,7 +104,7 @@ Express Entry manages applications under three federal skilled-worker programs:
 
 Candidates must first qualify for at least one program. Eligible candidates may create a profile and enter the pool. IRCC ranks candidates using the Comprehensive Ranking System (CRS) and invites them through rounds of invitations. Meeting the minimum eligibility rules does not guarantee an invitation.
 
-IRCC also uses category-based rounds for candidates who meet specified criteria, such as French-language proficiency or experience in selected occupations. Categories and criteria can change; check the current IRCC list rather than relying on an old article.
+IRCC also holds category-based rounds for candidates who meet current criteria, including French-language proficiency or selected occupations.
 
 Express Entry is a management system, not a visa or a guarantee of PR. A profile is not a permanent residence application. An invitation is a separate step, after which the candidate must submit a complete application and pass the required checks.
 
