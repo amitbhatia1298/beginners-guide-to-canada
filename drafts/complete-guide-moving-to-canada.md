@@ -13,6 +13,51 @@ This guide explains the main stages of planning a move, from choosing an immigra
 
 **Information checked: November 23, 2026.** Immigration, settlement-service eligibility and tax rules can change. This guide is general information, not legal, immigration or tax advice. Confirm the current instructions on the official government pages linked throughout before applying, travelling or making financial decisions.
 
+## In this guide
+
+Use the links below to jump directly to any section.
+
+- [Quick overview: the main steps](#quick-overview-the-main-steps)
+- [1. Decide what you mean by moving to Canada](#1-decide-what-you-mean-by-moving-to-canada)
+- [2. Explore permanent residence pathways](#2-explore-permanent-residence-pathways)
+  - [Express Entry](#express-entry)
+  - [Provincial and regional programs](#provincial-and-regional-programs)
+  - [Family sponsorship](#family-sponsorship)
+  - [Other pathways](#other-pathways)
+- [3. If you are coming temporarily: work, study or visit](#3-if-you-are-coming-temporarily-work-study-or-visit)
+  - [Coming to work](#coming-to-work)
+  - [Coming to study](#coming-to-study)
+  - [Coming to visit](#coming-to-visit)
+- [4. Choose where in Canada you want to live](#4-choose-where-in-canada-you-want-to-live)
+- [5. Prepare your finances before travelling](#5-prepare-your-finances-before-travelling)
+  - [Build your own arrival budget](#build-your-own-arrival-budget)
+- [6. Organize your documents](#6-organize-your-documents)
+- [7. What to do in your first days and weeks](#7-what-to-do-in-your-first-days-and-weeks)
+  - [Confirm your status and documents](#confirm-your-status-and-documents)
+  - [Apply for a Social Insurance Number if eligible](#apply-for-a-social-insurance-number-if-eligible)
+  - [Arrange provincial or territorial health coverage](#arrange-provincial-or-territorial-health-coverage)
+  - [Open a bank account](#open-a-bank-account)
+  - [Find stable accommodation](#find-stable-accommodation)
+  - [Connect with settlement services](#connect-with-settlement-services)
+  - [A practical first-month sequence](#a-practical-first-month-sequence)
+- [8. Understand taxes and government benefits](#8-understand-taxes-and-government-benefits)
+- [9. If you are moving with children](#9-if-you-are-moving-with-children)
+- [10. Common mistakes to avoid](#10-common-mistakes-to-avoid)
+- [Frequently asked questions](#frequently-asked-questions)
+  - [How much money do I need to move to Canada?](#how-much-money-do-i-need-to-move-to-canada)
+  - [Can I move to Canada without a job offer?](#can-i-move-to-canada-without-a-job-offer)
+  - [Can I visit Canada first and then stay permanently?](#can-i-visit-canada-first-and-then-stay-permanently)
+  - [Is healthcare free for newcomers?](#is-healthcare-free-for-newcomers)
+  - [Can I bring my spouse and children?](#can-i-bring-my-spouse-and-children)
+  - [Can I work while studying in Canada?](#can-i-work-while-studying-in-canada)
+  - [Where can I get free help after arriving?](#where-can-i-get-free-help-after-arriving)
+  - [What should I do first after landing?](#what-should-i-do-first-after-landing)
+- [A practical final checklist](#a-practical-final-checklist)
+- [Final thoughts](#final-thoughts)
+- [Official sources and references](#official-sources-and-references)
+
+---
+
 ## Quick overview: the main steps
 
 1. Decide whether you want to visit, study, work temporarily or immigrate permanently.
