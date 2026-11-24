@@ -22,7 +22,18 @@ const articles = fs.existsSync(folder)
         date: data.date ? new Date(data.date) : new Date(0),
         image: data.image || "",
         slug: path.basename(file, ".md"),
-        body: marked.parse(content)
+        body: (() => {
+          // Generate stable heading IDs so article table-of-contents links work
+          // on the built website, not only in GitHub's Markdown preview.
+          const slugger = new marked.Slugger();
+          const renderer = new marked.Renderer();
+          renderer.heading = function ({ tokens, depth, text }) {
+            const id = slugger.slug(text);
+            const inline = this.parser.parseInline(tokens);
+            return `<h${depth} id="${escapeHTML(id)}">${inline}</h${depth}>\\n`;
+          };
+          return marked.parse(content, { renderer });
+        })()
       };
     }).sort((a,b) => b.date - a.date)
   : [];
