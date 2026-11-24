@@ -1,0 +1,3 @@
+name = "bg2c-github-auth"
+main = "workers/bg2c-github-auth/index.js"
+compatibility_date = "2026-11-23"
