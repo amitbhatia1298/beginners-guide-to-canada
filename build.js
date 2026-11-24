@@ -179,3 +179,31 @@ for (const category of categories) {
 }
 
 console.log(`Generated ${articles.length} article pages.`);
+
+// Generate search-engine discovery files on every production build.
+const siteUrl = "https://beginnersguidetocanada.ca";
+const staticPaths = [
+  "/",
+  "/privacy/",
+  "/terms/",
+  "/disclaimer/",
+  "/editorial-policy/",
+  "/contact/",
+  ...categories.map(category => `/category/${category.slug}/`),
+  ...articles.map(article => `/articles/${encodeURIComponent(article.slug)}/`)
+];
+const uniquePaths = [...new Set(staticPaths)];
+const xmlEscape = value => String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${uniquePaths.map(route => `  <url><loc>${xmlEscape(siteUrl + route)}</loc></url>`).join("\\n")}
+</urlset>
+`;
+fs.writeFileSync("sitemap.xml", sitemap);
+fs.writeFileSync("robots.txt", `User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: ${siteUrl}/sitemap.xml
+`);
+console.log(`Generated sitemap.xml with ${uniquePaths.length} URLs and robots.txt.`);
