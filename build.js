@@ -54,7 +54,12 @@ const articles = fs.existsSync(folder)
             const id = occurrence ? `${baseId}-${occurrence}` : baseId;
             return `<h${depth} id="${escapeHTML(id)}">${inline}</h${depth}>\n`;
           };
-          return marked.parse(content, { renderer });
+          renderer.table = function ({ header, rows }) {
+            const headerHtml = header.map(cell => `<th>${this.parser.parseInline(cell.tokens)}</th>`).join("");
+            const rowsHtml = rows.map(row => `<tr>${row.map(cell => `<td>${this.parser.parseInline(cell.tokens)}</td>`).join("")}</tr>`).join("");
+            return `<div class="table-wrap"><table><thead><tr>${headerHtml}</tr></thead><tbody>${rowsHtml}</tbody></table></div>\n`;
+          };
+          return marked.parse(content, { renderer, gfm: true });
         })()
       };
     }).sort((a,b) => b.date - a.date)
@@ -136,7 +141,20 @@ p,li{overflow-wrap:anywhere}
 img{max-width:100%;height:auto}
 a{color:#087f82}
 .meta{color:#61717a;font-size:14px}
-@media(max-width:600px){main{margin:15px;padding:20px}}
+/* Readable, responsive Markdown tables */
+.table-wrap{max-width:100%;overflow-x:auto;margin:22px 0}
+table{width:100%;border-collapse:collapse;border-spacing:0;font-size:15px;line-height:1.55}
+thead{background:#eef5f5}
+th,td{padding:12px 14px;border:1px solid #dce5e7;text-align:left;vertical-align:top}
+th{color:#183746;font-weight:700}
+tbody tr:nth-child(even){background:#f8fbfb}
+tbody tr:hover{background:#f0f7f6}
+td p,th p{margin:0}
+.back-to-top{position:fixed;right:20px;bottom:20px;width:38px;height:38px;display:grid;place-items:center;border:1px solid #dce5e7;border-radius:50%;background:rgba(255,255,255,.94);color:#45616c;text-decoration:none;font:22px/1 Arial,sans-serif;box-shadow:0 2px 9px rgba(16,43,58,.12);opacity:0;visibility:hidden;transform:translateY(5px);transition:opacity .18s ease,transform .18s ease,visibility .18s;z-index:5}
+.back-to-top.visible{opacity:.82;visibility:visible;transform:translateY(0)}
+.back-to-top:hover,.back-to-top:focus-visible{opacity:1;color:#087f82;outline:2px solid #087f82;outline-offset:3px}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.back-to-top{transition:none}}
+@media(max-width:600px){main{margin:15px;padding:20px}.back-to-top{right:12px;bottom:max(12px,env(safe-area-inset-bottom));width:36px;height:36px}}
 `;
 
 for (const article of articles) {
@@ -148,14 +166,25 @@ for (const article of articles) {
 <title>${escapeHTML(article.title)} | Beginners Guide to Canada</title>
 <meta name="description" content="${escapeHTML(article.description)}">
 <link rel="canonical" href="https://beginnersguidetocanada.ca/articles/${encodeURIComponent(article.slug)}/">
-<style>${styles}</style></head><body>
+<style>${styles}</style></head><body id="top">
 <header><a href="/">← Beginners Guide to Canada</a></header>
 <main><p class="meta">${escapeHTML(article.category)} · ${escapeHTML(date)}</p>
 <h1>${escapeHTML(article.title)}</h1>
 ${article.image ? `<img src="${escapeHTML(article.image)}" alt="">` : ""}
 ${article.body}
 <p><a href="/">← Back to homepage</a></p>
-</main></body></html>`;
+</main>
+<a class="back-to-top" href="#top" aria-label="Back to top" title="Back to top">↑</a>
+<script>
+(function(){
+  const control=document.querySelector(".back-to-top");
+  if(!control)return;
+  function update(){control.classList.toggle("visible",window.scrollY>450);}
+  window.addEventListener("scroll",update,{passive:true});
+  update();
+})();
+</script>
+</body></html>`;
   const dir = path.join(output, article.slug);
   fs.mkdirSync(dir, {recursive:true});
   fs.writeFileSync(path.join(dir,"index.html"),html);
