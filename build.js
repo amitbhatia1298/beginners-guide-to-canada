@@ -30,6 +30,9 @@ const articles = fs.existsSync(folder)
           const seenHeadingIds = new Map();
           const renderer = new marked.Renderer();
           renderer.heading = function ({ tokens, depth }) {
+            // The page template already prints the article title as its single H1.
+            // Skip the duplicate Markdown H1; retain H2/H3 headings and their IDs.
+            if (depth === 1) return "";
             const inline = this.parser.parseInline(tokens);
             const plainText = inline
               .replace(/<[^>]*>/g, "")
