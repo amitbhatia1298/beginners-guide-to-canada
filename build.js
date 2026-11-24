@@ -25,11 +25,30 @@ const articles = fs.existsSync(folder)
         body: (() => {
           // Generate stable heading IDs so article table-of-contents links work
           // on the built website, not only in GitHub's Markdown preview.
-          const slugger = new marked.Slugger();
+          // Marked v15 does not expose Slugger on the marked object.
+          // Build stable heading IDs from rendered heading text instead.
+          const seenHeadingIds = new Map();
           const renderer = new marked.Renderer();
-          renderer.heading = function ({ tokens, depth, text }) {
-            const id = slugger.slug(text);
+          renderer.heading = function ({ tokens, depth }) {
             const inline = this.parser.parseInline(tokens);
+            const plainText = inline
+              .replace(/<[^>]*>/g, "")
+              .replace(/&amp;/g, "&")
+              .replace(/&quot;/g, '"')
+              .replace(/&#39;|&apos;/g, "'")
+              .replace(/&lt;/g, "<")
+              .replace(/&gt;/g, ">");
+            const baseId = plainText
+              .toLowerCase()
+              .normalize("NFKD")
+              .replace(/[\u0300-\u036f]/g, "")
+              .replace(/[^\p{L}\p{N}\s-]/gu, "")
+              .trim()
+              .replace(/\s+/g, "-")
+              .replace(/-+/g, "-");
+            const occurrence = seenHeadingIds.get(baseId) || 0;
+            seenHeadingIds.set(baseId, occurrence + 1);
+            const id = occurrence ? `${baseId}-${occurrence}` : baseId;
             return `<h${depth} id="${escapeHTML(id)}">${inline}</h${depth}>\n`;
           };
           return marked.parse(content, { renderer });
