@@ -128,14 +128,19 @@ ${article.body}
   fs.writeFileSync(path.join(dir,"index.html"),html);
 }
 
-const cards = articles.map(a => `
+const cards = articles.map(a => {
+  const date = Number.isNaN(a.date.getTime()) ? "" :
+    a.date.toLocaleDateString("en-CA", {timeZone:"UTC",year:"numeric",month:"long",day:"numeric"});
+  return `
 <a class="card" href="/articles/${encodeURIComponent(a.slug)}/"
 style="padding:23px;display:block">
 <div class="eyebrow">${escapeHTML(a.category)}</div>
 <h3>${escapeHTML(a.title)}</h3>
 <p>${escapeHTML(a.description)}</p>
+<p class="meta">${escapeHTML(date)}</p>
 <span class="link">Read article →</span>
-</a>`).join("");
+</a>`;
+}).join("");
 
 const section = `
 <!-- BG2C ARTICLES START -->
@@ -144,8 +149,8 @@ const section = `
 <div class="section-heading"><div>
 <div class="eyebrow">From our blog</div>
 <h2>Latest Articles</h2>
-</div></div>
-<div class="cards">${cards || "<p>Articles coming soon.</p>"}</div>
+</div><p>Fresh, practical guides and explainers from BG2C.</p></div>
+<div class="cards">${cards || '<p class="empty">Our first articles are being prepared. In the meantime, <a href="#topics">explore all topics</a>.</p>'}</div>
 </div></section>
 <!-- BG2C ARTICLES END -->`;
 
