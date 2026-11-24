@@ -308,7 +308,7 @@ If Express Entry appears relevant, continue with BG2C's [Express Entry beginner'
 
 For a broader moving checklist covering finances, documents, housing and arrival tasks, see [Moving to Canada: A Complete Beginner's Guide](/articles/complete-guide-moving-to-canada/).
 
-Immigration decisions can affect your family, finances and future plans. Take time to verify the current rules, keep copies of official instructions and seek advice from an authorized professional if your circumstances are complicated.
+Immigration decisions can affect your family and finances. Verify the current rules, keep copies of official instructions and seek authorized advice if your circumstances are complicated.
 
 ## Official sources
 
@@ -342,7 +342,7 @@ Immigration decisions can affect your family, finances and future plans. Take ti
 - **Last verified:** November 24, 2026.
 - **Commercial rights:** No third-party image, chart or document reproduced. Facts are summarized in original wording and linked to official government pages.
 - **Editorial caveat:** This is general information, not legal advice. The PGP pause, caregiver pilot status, Start-up Visa pause and January 2027 RCIP transition are time-sensitive and must be checked again immediately before publication.
-- **Approximate reader-facing word count:** re-counted after editorial tightening; target is 3,000–3,500 words including the table of contents and references.
+- **Reader-facing word count:** approximately 3,500 words, including the table of contents and references.
 - **Publication status:** Unpublished draft. Do not publish without editorial review and user approval.
 
 ### Publication and monetization-readiness assessment
