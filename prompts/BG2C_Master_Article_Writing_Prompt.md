@@ -198,6 +198,26 @@ Before marking an article ready:
 - If a batch is ready, publish it only after each article passes this entire quality gate and the site's navigation, category pages and internal links correctly expose the new content.
 - If any article fails, hold that article back and publish only the pieces that pass. Do not lower standards to make the whole batch go live.
 
+
+
+## 11A. Commercial-use rights, copyright and source-material clearance
+
+**Mandatory for every BG2C article and every other website asset or publication:** Never use, upload, reproduce, adapt, publish or otherwise incorporate an image, photograph, illustration, chart, diagram, map, video, audio clip, document, template, font, icon, dataset, research material, text or other information/source material unless its use is lawful and its licence or rights clearly permit BG2C's intended commercial use.
+
+Apply these rules without exception:
+- Use original material created by BG2C, material in the public domain, or material covered by a clearly identified licence that permits commercial use and the specific form of use planned (including modification, cropping, adaptation, distribution and website publication where relevant).
+- Verify the licence from the original rights-holder or authoritative source before use. Do not infer permission from a Google image result, search snippet, social-media post, public availability, a watermark-free file, or the words "free", "royalty-free" or "copyright-free". Those labels alone are not proof of commercial-use permission.
+- Check and follow all licence conditions, including attribution, link-back, share-alike, non-derivative, model/property release, territory, duration and other restrictions. If a condition conflicts with BG2C's intended use, do not use the material.
+- Do not use material marked "non-commercial", "personal use only", "editorial use only" or otherwise restricted from commercial use. Do not use copyrighted material without permission, even if attribution is provided. Attribution does not replace a licence.
+- For AI-generated images or other AI assets, check that the provider's current terms allow commercial use and that the prompt/output does not knowingly reproduce protected characters, logos, artwork, photographs or another creator's distinctive work. Keep the generation/source record where practical.
+- Treat factual information differently from protected expression: independently verify facts using reliable sources, explain them in BG2C's own original wording, and link/cite the sources. Do not copy protected wording, article structure, photographs, charts, tables, reports or compilations merely because the underlying facts are public. Do not use confidential, leaked, unlawfully obtained, access-restricted or otherwise unauthorized documents or information.
+- For third-party reports, documents, datasets, charts and statistics, verify that the terms permit commercial reference, quotation, reproduction or adaptation as applicable. When reproduction rights are unclear, do not reproduce the material; instead summarize independently verifiable facts in original language and cite the source where legally appropriate.
+- Keep a simple rights record for each third-party asset: creator/rights-holder, original source URL, licence name or written permission, date checked, required attribution and any restrictions. Include attribution on the page when the licence requires it.
+- If rights or licence terms cannot be verified, treat the material as not cleared and do not use it. Replace it with original work or a verified commercially permitted alternative.
+- This rule applies to all drafts, published articles, downloadable documents, lead magnets, social-media graphics, website design assets and future BG2C content—not just featured images.
+
+**Default rule:** When in doubt, leave it out. BG2C must use only material that is original, public-domain, or explicitly cleared for the intended commercial use. "Free to view" is not the same as "free to use commercially."
+
 ## 12. Final quality-control gate
 
 Before presenting an article, independently review and correct it. Check:
