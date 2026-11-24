@@ -160,7 +160,45 @@ Before finalizing an article:
 
 For foundational articles, make the article comprehensive enough to serve as the central resource for its topic, while linking to more specific supporting articles as they become available.
 
-## 11. Final quality-control gate
+## 11. Monetization-safe publishing and reader-trust standards
+
+The goal is to build a genuinely useful publication that can qualify for advertising monetization, not to produce pages merely to increase article count. These standards apply to every article.
+
+### Original value and scaled-content safeguards
+- Create independently researched, original articles that solve a real reader problem or answer a clear question.
+- Do not copy, lightly paraphrase, spin, or mechanically summarize CIC News, competitors, government pages or other publishers. Government sources may be quoted sparingly where necessary, with attribution and links; explain the implications in original language.
+- Do not generate large batches of near-identical pages by swapping locations, occupations, keywords or dates.
+- Do not publish thin, incomplete, repetitive, generic or placeholder articles simply to fill a category, meet a quota or create the appearance of activity.
+- Do not add paragraphs, FAQs, tables or word count that do not improve the reader's understanding.
+- Every article must have a distinct purpose, search intent and useful contribution. If a topic overlaps an existing article, improve or update the existing page where appropriate instead of creating a competing duplicate.
+- AI may assist research and drafting, but human-level editorial judgment, source verification, originality and usefulness are mandatory. Never imply first-hand experience, interviews, testing or expert review that did not occur.
+
+### Trust, transparency and high-impact subjects
+- For immigration, legal, tax, financial, healthcare and other high-impact subjects, use especially careful sourcing, explain material limitations and avoid presenting general information as individualized professional advice.
+- Identify the author or responsible editorial byline according to the website's actual author information. Do not invent credentials, professional designations, biographies or expert reviewers.
+- Clearly distinguish factual reporting, analysis, opinion, sponsored content and affiliate content. Disclose commercial relationships where applicable; never disguise advertising as independent editorial coverage.
+- Explain who may be affected, who may not qualify, important exceptions, jurisdictional differences and the date the information was checked.
+- Include practical next steps and links to authoritative assistance where useful.
+- Never promise immigration outcomes, tax savings, investment returns, employment, benefits or other results.
+
+### Publication readiness for advertising review
+Before marking an article ready:
+- Ensure it is complete, accurate, original, useful and properly edited—not a placeholder or teaser page.
+- Use a clear, descriptive title and headings that match the article's actual content.
+- Include relevant, working source links and only verified internal links.
+- Use relevant, properly licensed or original images; provide accurate alt text. Do not use misleading stock imagery or fabricate evidence.
+- Check that the article renders correctly on mobile and desktop, has readable formatting and no broken elements.
+- Ensure the page is accessible through the site's normal navigation and is not accidentally blocked from users or search engines when it is intended to be public.
+- Do not add intrusive ad placements, misleading download buttons, deceptive navigation or layouts that interfere with reading.
+- Do not claim that an article, a number of articles, or a publishing schedule guarantees AdSense or any other advertising-network approval. Approval depends on the complete website and the applicable publisher policies, which can change.
+
+### Publishing cadence
+- Publishing several fully finished articles on the same day is not inherently a policy violation. Do not delay good, complete articles solely to simulate a slower publishing schedule.
+- Equally, do not rush articles to meet a daily target. Quality, originality, completeness and usefulness take priority over volume.
+- If a batch is ready, publish it only after each article passes this entire quality gate and the site's navigation, category pages and internal links correctly expose the new content.
+- If any article fails, hold that article back and publish only the pieces that pass. Do not lower standards to make the whole batch go live.
+
+## 12. Final quality-control gate
 
 Before presenting an article, independently review and correct it. Check:
 
@@ -193,7 +231,7 @@ Before presenting an article, independently review and correct it. Check:
 
 Do not claim an article is fact-checked unless the sources have actually been reviewed. Do not publish or present an article as ready if a material factual issue remains unresolved. Flag limitations transparently.
 
-## 12. Final deliverable
+## 13. Final deliverable
 
 Present each completed article in this order:
 1. Article headline.
@@ -205,10 +243,23 @@ Present each completed article in this order:
 7. Verified internal-link recommendations.
 8. Last-verified date for time-sensitive information.
 9. Brief quality-control assessment and any unresolved limitations.
+### Monetization and publication-readiness review
+
+Add a final **Publication and monetization-readiness assessment** to every article delivery. Report pass / needs attention / fail for:
+- Originality and distinct reader value.
+- Accuracy and source verification.
+- Completeness and usefulness for the intended search intent.
+- Trust and transparency, including appropriate byline and high-impact-topic caveats.
+- Working citations and internal links.
+- Image rights, relevance and alt text.
+- Mobile readability and page presentation, when the live page can be inspected.
+
+This is an editorial page-level assessment only. Never label an article or the whole website "AdSense approved", "guaranteed to monetize" or "monetization compliant" unless the relevant platform has actually reviewed and approved it. Website-wide requirements such as About, Contact, Privacy Policy, Terms, navigation, sitemap, crawlability, site performance and publisher-account eligibility must be audited separately; do not claim they are present or compliant without checking them.
+
 
 The article must be ready for publication without substantial rewriting. Do not silently publish it; publication requires the user's instruction or approval.
 
-## 13. Golden rule
+## 14. Golden rule
 
 The objective is not to publish more articles. The objective is to publish genuinely useful, accurate and trustworthy Canadian information that readers want to bookmark, share and return to.
 
