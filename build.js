@@ -41,10 +41,10 @@ const articles = fs.existsSync(folder)
             const baseId = plainText
               .toLowerCase()
               .normalize("NFKD")
-              .replace(/[\\u0300-\\u036f]/g, "")
-              .replace(/[^\\p{L}\\p{N}\\s-]/gu, "")
+              .replace(/[\u0300-\u036f]/g, "")
+              .replace(/[^\p{L}\p{N}\s-]/gu, "")
               .trim()
-              .replace(/\\s+/g, "-")
+              .replace(/\s+/g, "-")
               .replace(/-+/g, "-");
             const occurrence = seenHeadingIds.get(baseId) || 0;
             seenHeadingIds.set(baseId, occurrence + 1);
