@@ -18,11 +18,9 @@ url_slug: "canada-immigration-pathways"
 
 # Canada's Immigration Pathways Explained: Which Route to Permanent Residence Is Right for You?
 
-Canada does not have one single immigration program that works for everyone. A skilled professional, a tradesperson, someone with a Canadian spouse, a worker with a job offer in Atlantic Canada and a person seeking protection may all follow very different processes.
+Canada has several immigration programs, and the right route depends on your circumstances. Skilled workers, family members, regional applicants and people seeking protection follow different processes.
 
-The first step is not to search for the “easiest” program. It is to understand which pathways exist, what each one is designed to do and whether your circumstances match the requirements. A program that is suitable for one applicant may be unavailable or unsuitable for another.
-
-This guide maps the main routes to permanent residence (PR), explains how to compare them and points you to the official instructions. It is a starting point for research, not a personal eligibility decision or legal advice.
+Rather than searching for the “easiest” program, first understand what each pathway is designed to do and whether you meet its requirements. This guide maps the main routes to permanent residence (PR), explains how to compare them and points you to official instructions. It is general information, not a personal eligibility decision or legal advice.
 
 **Information checked: November 24, 2026.** Immigration programs, intake status, selection priorities and application requirements can change. Always confirm the current rules with Immigration, Refugees and Citizenship Canada (IRCC) and, where relevant, the province or territory before paying fees, accepting a job or submitting an application.
 
@@ -86,7 +84,9 @@ Canada's immigration system includes several broad categories. The main ones are
 | Refugees and protected persons | People who meet Canada's refugee protection or protected-person rules | Refugee resettlement and in-Canada protection processes |
 | Humanitarian and other | Certain exceptional or special circumstances under specific legal provisions or public policies | Humanitarian and compassionate applications and designated special measures |
 
-These categories are not interchangeable. For example, a person who wants to immigrate for work usually needs to qualify under an economic program. A person who fears persecution may need to understand refugee protection rules, not apply through a skilled-worker program.
+These categories are not interchangeable. Someone seeking work-based immigration generally needs an economic program; someone who fears persecution must understand refugee protection rules.
+
+The 2027–2029 Immigration Levels Plan sets 380,000 permanent resident admissions annually, with 64.4% allocated to economic immigration. These are planning targets, not individual eligibility criteria or a promise of selection. The plan also sets separate family, refugee and humanitarian categories.
 
 IRCC's [official permanent immigration program directory](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada.html) is the best starting point for checking which programs are currently listed as open, paused or closed.
 
