@@ -11,7 +11,7 @@ Moving to Canada is more than booking a flight and finding a place to live. You 
 
 This guide explains the main stages of planning a move, from choosing an immigration route to settling into everyday life. It is an overview, not a personal eligibility assessment: the rules depend on your nationality, purpose of travel, qualifications, family situation and the province or territory where you plan to live.
 
-**Information checked: November 23, 2026.** Immigration and settlement rules can change. Confirm the current instructions with the official government links throughout this guide before applying or travelling.
+**Information checked: November 23, 2026.** Immigration, settlement-service eligibility and tax rules can change. This guide is general information, not legal, immigration or tax advice. Confirm the current instructions on the official government pages linked throughout before applying, travelling or making financial decisions.
 
 ## Quick overview: the main steps
 
@@ -165,11 +165,11 @@ Check that your passport, immigration document and any conditions recorded by th
 
 ### Apply for a Social Insurance Number if eligible
 
-A Social Insurance Number (SIN) is a nine-digit number used for work and certain government programs and benefits. You generally need a SIN to work in Canada. Temporary residents may receive a SIN with an expiry date tied to their authorized status.
+A Social Insurance Number (SIN) is a nine-digit number used to work in Canada and access certain government programs and benefits. You need to be legally authorized to work before you can obtain a SIN for employment. Temporary residents who qualify generally receive a SIN beginning with 9; its expiry date is tied to their immigration document. If your permit is extended or your status changes, check whether your SIN record needs updating.
 
-Apply through Service Canada and protect the number. Do not share it casually or use it as everyday identification.
+Apply through Service Canada and protect the number. Do not share it casually or use it as everyday identification. Service Canada does not charge a fee to apply.
 
-Official information: [Apply for a SIN](https://www.canada.ca/en/employment-social-development/services/sin/apply.html).
+Official information: [Apply for a SIN](https://www.canada.ca/en/employment-social-development/services/sin/apply.html) and [SIN information for temporary residents](https://www.canada.ca/en/employment-social-development/services/sin/temporary-residents.html).
 
 ### Arrange provincial or territorial health coverage
 
@@ -191,7 +191,7 @@ If you need temporary accommodation first, avoid signing a long lease before you
 
 Eligible newcomers may be able to access free settlement services. These organizations can help with job searches, language training, housing information, credential recognition and connecting with the local community. Eligibility rules and time limits apply and have changed, so check the current criteria.
 
-Use [IRCC's newcomer services finder](https://ircc.canada.ca/english/newcomers/services/index.asp). Services in Quebec are organized separately; use the Quebec-specific resources linked by IRCC.
+Use [IRCC's newcomer services finder](https://ircc.canada.ca/english/newcomers/services/). Eligibility is not universal. As of April 1, 2026, IRCC changed the period during which economic-class permanent residents can access certain federally funded settlement services. Check the current eligibility rules before relying on a service. Services in Quebec are organized separately; use the Quebec-specific resources linked by IRCC.
 
 ## 8. Understand taxes and government benefits
 
@@ -199,9 +199,9 @@ Canadian tax obligations depend on your tax residency and circumstances, not sim
 
 If you become a resident of Canada for income tax purposes, you may need to report income from inside and outside Canada according to the applicable rules. Keep records of your arrival date, income, assets and relevant documents, and review the CRA's newcomer guidance.
 
-Some newcomers may qualify for benefits and credits, depending on their family situation, income, tax residency and immigration status. Eligibility is not automatic for every newcomer. You may need to apply and file tax returns to receive or continue certain payments.
+Some newcomers may qualify for benefits and credits, depending on their family situation, income, tax residency and immigration status. Eligibility is not automatic for every newcomer. You may need to apply and file tax returns to receive or continue certain payments. For tax purposes, residency is determined by residential ties and other relevant facts, not simply by whether you hold a work permit, study permit or permanent resident status. If you become a Canadian tax resident, you generally report worldwide income for the period you are resident, subject to applicable tax treaty rules and exceptions.
 
-Start with the CRA's [Newcomers to Canada tax and benefit information](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html).
+Start with the CRA's [Newcomers to Canada tax and benefit information](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html) and its guide to [completing a tax return as a newcomer](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants/completing-return-newcomers.html).
 
 ## 9. If you are moving with children
 
@@ -307,7 +307,9 @@ For more detailed help, continue with BG2C's [Express Entry beginner's guide](/a
 - [Financial Consumer Agency of Canada — Opening a bank account](https://www.canada.ca/en/financial-consumer-agency/services/banking/opening-bank-account.html)
 - [CRA — Newcomers to Canada](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html)
 - [IRCC — Education in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/education.html)
-- [IRCC — Newcomer services](https://ircc.canada.ca/english/newcomers/services/index.asp)
+- [IRCC — Find free newcomer services and check eligibility](https://ircc.canada.ca/english/newcomers/services/)
+- [Service Canada — SIN information for temporary residents](https://www.canada.ca/en/employment-social-development/services/sin/temporary-residents.html)
+- [CRA — Completing a tax return for newcomers](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants/completing-return-newcomers.html)
 
 ## Editorial and SEO notes
 
@@ -319,10 +321,11 @@ For more detailed help, continue with BG2C's [Express Entry beginner's guide](/a
 - **Meta description:** Planning a move to Canada? Explore immigration routes, documents, costs, arrival steps, healthcare, banking, work and settling in.
 - **Suggested URL slug:** `complete-guide-moving-to-canada`
 - **Suggested H1:** Moving to Canada: A Complete Beginner's Guide
-- **Featured image:** Original, realistic editorial image showing a newcomer arriving in a Canadian city with luggage and a recognizable but non-stereotyped urban setting.
-- **Alt text:** "Newcomer arriving in Canada with luggage and a city skyline in the background."
+- **Featured image:** None included in this draft. Do not use the image-search preview or any unverified third-party image. If a hero image is added, use an original BG2C-created image or an asset whose commercial-use permission and any applicable conditions have been checked. An AI-generated image is not automatically rights-clear; review the generation provider's current terms and avoid reproducing protected characters, logos, artwork or identifiable copyrighted photographs.
+- **Alt text:** Write descriptive alt text only after the final image has been selected.
 - **Verified internal links:** Express Entry beginner's guide; Life in Canada category. Other planned foundational articles should be linked after their pages exist.
-- **Last verified:** November 23, 2026.
+- **Last reviewed against official sources:** November 23, 2026. Dynamic program requirements must be rechecked immediately before publication.
+- **Commercial-use clearance:** No third-party images, charts, documents or copied source text are embedded in this draft. Government pages are linked as references; their facts are paraphrased in original wording. No separate permission to reproduce government page content is claimed.
 - **Byline:** Use the site's actual author/editorial byline. Do not invent credentials.
 
 ## Publication and monetization-readiness assessment
@@ -334,7 +337,7 @@ For more detailed help, continue with BG2C's [Express Entry beginner's guide](/a
 | Completeness and search intent | Pass — covers planning, status, arrival and settlement |
 | Trust and transparency | Pass — limitations and official sources disclosed |
 | Citations and internal links | Needs attention — verify all URLs and category slug in the deployed site before publishing |
-| Image rights and alt text | Needs attention — featured image still needs to be sourced or created |
+| Image rights and alt text | Pass for current text-only draft — no unverified image is embedded; add a hero image only after rights review |
 | Mobile readability and page presentation | Needs attention — draft has not yet been rendered on the live website |
 
-**Important publication hold:** This is a draft for editorial approval. Before publication, check the current official source pages again, validate internal routes, add a properly licensed or original featured image, and render-test the page on desktop and mobile.
+**Publication hold:** This remains an unpublished draft. Before publication, recheck time-sensitive IRCC/CRA requirements, validate the internal article and category routes against the live site, and render-test desktop and mobile. A featured image is optional; do not delay publication merely to add one. If an image or graphic is added, use an original asset or a clearly commercially permitted asset. Do not reproduce third-party government graphics, forms, charts or document pages without confirming the applicable reuse terms.
