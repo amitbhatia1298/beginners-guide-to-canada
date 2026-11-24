@@ -49,7 +49,7 @@ const articles = fs.existsSync(folder)
             const occurrence = seenHeadingIds.get(baseId) || 0;
             seenHeadingIds.set(baseId, occurrence + 1);
             const id = occurrence ? `${baseId}-${occurrence}` : baseId;
-            return `<h${depth} id="${escapeHTML(id)}">${inline}</h${depth}>\\n`;
+            return `<h${depth} id="${escapeHTML(id)}">${inline}</h${depth}>\n`;
           };
           return marked.parse(content, { renderer });
         })()
