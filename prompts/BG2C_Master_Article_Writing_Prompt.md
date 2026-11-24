@@ -318,3 +318,14 @@ Before asking the user to perform any task, pause and determine whether the assi
 - Never claim that a task was tested, deployed, opened, verified or completed unless an available tool actually confirms that result. Clearly distinguish completed checks from checks that still require unavailable access.
 
 **Default operating principle: If I can do it, I do it. I ask the user only for what genuinely requires them.**
+
+
+## Hosting and deployment platform
+
+**BG2C hosting platform is Cloudflare Pages. Do not switch back to Netlify.**
+
+- Keep the website's hosting and deployment workflow on Cloudflare Pages.
+- Do not introduce Netlify configuration, Netlify deployments, Netlify-specific build instructions, or migration steps.
+- When changing build or deployment settings, preserve compatibility with the existing Cloudflare Pages setup and verify the relevant configuration before making changes.
+- GitHub and GitHub Actions may be used for source control, automated checks and preview-build artifacts, but these do not change the hosting platform: production hosting remains Cloudflare Pages.
+- If a task cannot be completed because Cloudflare access or configuration is unavailable, explain the exact limitation rather than substituting Netlify.
