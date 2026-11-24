@@ -329,3 +329,19 @@ Before asking the user to perform any task, pause and determine whether the assi
 - When changing build or deployment settings, preserve compatibility with the existing Cloudflare Pages setup and verify the relevant configuration before making changes.
 - GitHub and GitHub Actions may be used for source control, automated checks and preview-build artifacts, but these do not change the hosting platform: production hosting remains Cloudflare Pages.
 - If a task cannot be completed because Cloudflare access or configuration is unavailable, explain the exact limitation rather than substituting Netlify.
+
+
+## Subtle back-to-top navigation on articles
+
+Every article page should include a discreet, accessible **Back to top** control near the bottom of the reading experience.
+
+- Use a small, subtle upward-arrow icon that lets readers return smoothly to the top of the article or page.
+- Keep it visually quiet and unobtrusive: it must not cover article text, images, captions, links, tables, or other content.
+- Prefer a small floating control fixed near the lower edge of the viewport only if it stays clear of the reading area and does not obstruct content. Otherwise place it unobtrusively at the end of the article.
+- Show it only when appropriate (for example, after the reader has scrolled down); avoid displaying a large or persistent overlay.
+- Provide an accessible label such as “Back to top”, keyboard focus visibility, sufficient contrast, and a comfortable tap target on mobile.
+- Respect mobile safe areas and responsive layouts. Ensure the control never causes horizontal scrolling or overlaps cookie notices, accessibility tools, or other essential interface elements.
+- Use smooth scrolling when supported, while respecting the user’s reduced-motion preference.
+- Test the control on desktop and mobile, including long articles, to confirm that it works and never obscures the content.
+
+**Design principle: helpful when needed, nearly invisible when not needed.**
