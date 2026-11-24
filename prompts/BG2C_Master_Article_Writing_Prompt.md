@@ -89,6 +89,17 @@ Use the following structure where it suits the subject:
 
 Adapt the structure to the subject. Do not force irrelevant sections into an article.
 
+### Table of contents and on-page navigation
+
+For every substantial BG2C article, add a clearly labelled, hyperlinked **In this guide** or **On this page** table of contents near the beginning, after the introduction and before the first main content section.
+
+- Include every main H2 section and every meaningful H3 subsection so readers can jump directly to the information they need.
+- Use nested bullets to show H3 subsections beneath their parent H2.
+- Link each entry to the corresponding heading anchor on the same page. Ensure anchor IDs match the website's actual Markdown renderer; verify the links in the rendered page before publication.
+- Keep the table of contents concise and readable on mobile. Do not include minor inline labels or every paragraph.
+- Do not create a table of contents for very short articles where it would add clutter; use editorial judgment.
+- Use consistent wording such as "In this guide" across BG2C pillar and long-form guides.
+
 ## 6. SEO requirements
 
 For every article, provide:
