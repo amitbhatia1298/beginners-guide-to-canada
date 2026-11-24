@@ -116,13 +116,15 @@ Use keywords naturally. Prioritize search intent, accuracy and reader usefulness
 
 ## 7. Article length
 
-Use length appropriate to the subject:
-- Comprehensive pillar guides: approximately 2,000–3,000 words.
-- Detailed practical guides: approximately 1,500–2,500 words.
-- News and government updates: approximately 700–1,200 words.
-- Simple explainers: approximately 800–1,500 words.
+Use length appropriate to the subject and follow these editorial targets consistently:
+- **Comprehensive pillar guides: target 3,000–3,500 words.** Treat 3,500 words as the normal upper limit for the reader-facing article. Go beyond it only when essential information cannot be covered accurately and usefully within the limit; explain why in the internal editorial notes.
+- **Detailed practical guides: approximately 1,500–2,500 words.**
+- **News and government updates: approximately 700–1,200 words.**
+- **Simple explainers: approximately 800–1,500 words.**
 
-These are guidelines, not quotas. Never add filler to achieve a word count. A shorter complete article is better than a padded one.
+Count the reader-facing article, including headings, tables, FAQs and the table of contents, but exclude separate internal editorial notes and production metadata. State the approximate word count in the internal editorial assessment.
+
+These targets are editorial guardrails, not a reason to pad or cut essential information. Never add filler to reach a minimum. Prioritize completeness, accuracy and reader usefulness; tighten repetition and move genuinely separate deep-dive material into a relevant supporting article with an internal link. If an article is outside its target range, revise it before presenting it as publication-ready or explain the exceptional reason for the variance.
 
 ## 8. Identify the article type
 
