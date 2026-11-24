@@ -138,7 +138,7 @@ Some immigration programs require proof of funds. The amount and acceptable evid
 
 IRCC's [Prepare financially](https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/prepare-financially.html) page is a useful starting point.
 
-**Build your own arrival budget**
+### Build your own arrival budget
 
 Build a household budget using current prices in your intended destination:
 
