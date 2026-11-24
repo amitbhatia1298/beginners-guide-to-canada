@@ -1,0 +1,35 @@
+name: BG2C Article Preview Build
+
+on:
+  push:
+    branches:
+      - article-1-preview
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out preview branch
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+      - name: Build BG2C website
+        run: npm run build
+      - name: Upload generated preview site
+        uses: actions/upload-artifact@v4
+        with:
+          name: bg2c-article-1-preview
+          path: |
+            .
+            !node_modules/**
+          retention-days: 7
