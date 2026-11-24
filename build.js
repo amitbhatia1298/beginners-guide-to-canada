@@ -196,7 +196,7 @@ const uniquePaths = [...new Set(staticPaths)];
 const xmlEscape = value => String(value).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;").replace(/'/g, "&apos;");
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${uniquePaths.map(route => `  <url><loc>${xmlEscape(siteUrl + route)}</loc></url>`).join("\\n")}
+${uniquePaths.map(route => `  <url><loc>${xmlEscape(siteUrl + route)}</loc></url>`).join("\n")}
 </urlset>
 `;
 fs.writeFileSync("sitemap.xml", sitemap);
