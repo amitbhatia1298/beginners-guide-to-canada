@@ -30,7 +30,7 @@ const articles = fs.existsSync(folder)
           renderer.heading = function ({ tokens, depth, text }) {
             const id = slugger.slug(text);
             const inline = this.parser.parseInline(tokens);
-            return `<h${depth} id="${escapeHTML(id)}">${inline}</h${depth}>\\n`;
+            return `<h${depth} id="${escapeHTML(id)}">${inline}</h${depth}>\n`;
           };
           return marked.parse(content, { renderer });
         })()
