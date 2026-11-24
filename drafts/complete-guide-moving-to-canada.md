@@ -38,6 +38,13 @@ A visitor visa or electronic travel authorization (eTA) is a travel document, no
 
 Before you make plans, be clear about your goal and check which status you can actually qualify for.
 
+**A quick way to narrow your options**
+
+- If your goal is to settle permanently, start with the federal and provincial permanent-residence program lists and check the eligibility rules before paying for tests or assessments.
+- If your goal is to work for a Canadian employer temporarily, check whether the job and employer support an employer-specific permit or whether you qualify for a specific open-work-permit category.
+- If your goal is education, confirm both the school's DLI status and the exact program's PGWP eligibility before paying a deposit.
+- If your goal is a short visit, use IRCC's entry-requirements tool to identify the correct travel document. Do not treat visitor status as permission to work.
+
 Official starting point: [IRCC — Explore immigration programs](https://ircc.canada.ca/explore-programs/).
 
 ## 2. Explore permanent residence pathways
@@ -54,7 +61,7 @@ Read BG2C's [Express Entry beginner's guide](/articles/complete-beginners-guide-
 
 ### Provincial and regional programs
 
-Provinces and territories may nominate eligible candidates whose skills or circumstances match their program priorities. Other regional pathways include the Atlantic Immigration Program and programs for selected rural or Francophone communities.
+Provinces and territories may nominate eligible candidates whose skills, education and work experience match their program priorities and who intend to live in the nominating province or territory. Each Provincial Nominee Program (PNP) has its own streams and requirements. Other regional pathways include the Atlantic Immigration Program, which requires a qualifying job offer from a designated employer, and current rural or Francophone community immigration programs. Program availability and intake can change, so check whether a pathway is open before spending money or making plans.
 
 Each program has its own requirements. Some require a job offer, a connection to a province or community, work experience, education, language ability or an intention to settle in a particular location. A nomination is not automatic: applicants must meet both the relevant program rules and the federal requirements that apply.
 
@@ -72,30 +79,30 @@ Start with [IRCC's current permanent residence program list](https://www.canada.
 
 ### Coming to work
 
-Canada has two broad types of work permits:
+Most people who work in Canada need authorization, usually a work permit. A work permit is not the same as a visitor visa or eTA. Canada has two broad types of work permits:
 
 - **Employer-specific work permits** restrict your work to the employer, occupation or location stated on the permit. The employer may need to complete steps before you apply, including obtaining a Labour Market Impact Assessment (LMIA) if required.
 - **Open work permits** allow eligible holders to work for most employers, subject to the conditions on the permit. They are available only in specific situations; most people applying from outside Canada cannot simply choose an open work permit.
 
 Do not pay someone who promises a guaranteed job or work permit. Check the employer, the permit category and the official application requirements yourself.
 
-Official guidance: [Work in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html).
+Official guidance: [Work in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada.html), [employer-specific work permits](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/employer-specific.html) and [open work permits](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/open-work-permit.html).
 
 ### Coming to study
 
 A study permit applicant generally needs to be accepted by a designated learning institution, show they have enough money for tuition and living costs (including accompanying family members, where applicable), meet other admissibility requirements and satisfy the officer that they will leave Canada when their permit expires.
 
-Check the school's and program's eligibility, the current study permit rules and any provincial or territorial requirements before paying a deposit. Do not assume that every program makes a graduate eligible for a post-graduation work permit.
+Check the school's and program's eligibility, the current study permit rules and any provincial or territorial requirements before paying a deposit. A designated learning institution (DLI) is not automatically a guarantee that every program is eligible for a post-graduation work permit (PGWP). PGWP eligibility has separate requirements that can include the program, field of study, language results and when the study permit application was submitted. Confirm the exact program on IRCC's current lists before committing money.
 
-Official guidance: [Study permit eligibility](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html).
+Official guidance: [Study permit eligibility](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/eligibility.html), [PGWP eligibility](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html) and [DLI list of PGWP-eligible programs](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html).
 
 ### Coming to visit
 
-Depending on your citizenship, passport and how you travel, you may need a visitor visa or an eTA. You generally need one or the other, not both. An eTA is commonly required by visa-exempt foreign nationals flying to or transiting through a Canadian airport; it is not a general substitute for a visitor visa.
+Depending on your citizenship, travel document and how you enter Canada, you may need a visitor visa or an electronic travel authorization (eTA). Most travellers need one or the other, not both, but the rules differ by nationality and mode of travel. Visa-exempt foreign nationals generally need an eTA to fly to or transit through a Canadian airport; they generally do not need an eTA when arriving by car, bus, train or boat. Some citizens of visa-required countries may qualify for an eTA when flying if they meet additional conditions. Check the official tool for your exact situation rather than assuming that an eTA is available to you.
 
-A visitor document does not guarantee admission. A border services officer makes the final decision when you arrive. Visitors must comply with the conditions of their stay and cannot work unless separately authorized.
+A visa or eTA lets you travel to a Canadian port of entry; it does not guarantee admission. A border services officer makes the final decision when you arrive. A visitor visa or eTA does not authorize you to work, and an eTA does not authorize you to study. Visitors must comply with the conditions of their stay.
 
-Official guidance: [Find out whether you need a visitor visa or eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html).
+Official guidance: [Find out what you need to enter Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html), [eTA eligibility](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility.html) and [visitor visa information](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html).
 
 ## 4. Choose where in Canada you want to live
 
@@ -128,9 +135,23 @@ Your budget should cover more than the flight. Depending on your circumstances, 
 - Private health insurance if public coverage is not yet available or does not cover your needs.
 - Emergency savings in case a job search or other plans take longer than expected.
 
-There is no single settlement budget that suits everyone. Costs vary by city, household size, housing choice and immigration category. Some immigration programs also require proof of funds; the amount and evidence depend on the program and can change. Use the official program instructions to confirm whether proof of funds is required and how much you must show.
+There is no single settlement budget that suits everyone. Costs vary by city, household size, housing choice and immigration category. Some immigration programs also require proof of funds; the amount and evidence depend on the program and can change. Use the official program instructions to confirm whether proof of funds is required and how much you must show. Keep required settlement funds accessible and do not assume that a credit limit, borrowed money or a property you cannot readily sell will meet a program's proof-of-funds rules.
 
 IRCC's [Prepare financially](https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/prepare-financially.html) page is a useful starting point.
+
+**Build your own arrival budget**
+
+Rather than relying on a single online estimate, make a simple budget for your household and destination:
+
+| Expense | What to estimate |
+|---|---|
+| Before departure | Application fees, tests, medicals, translations and flights |
+| First month | Temporary stay, groceries, phone, local transport and basic supplies |
+| Housing move-in | Rent, permitted deposits, utility setup and essential furniture |
+| Ongoing monthly costs | Rent, utilities, food, transit or car costs, phone and childcare |
+| Protection and contingency | Private health coverage if needed, emergency travel and unexpected costs |
+
+Use current rental listings and local service prices for the city you are considering. Separate one-time setup costs from recurring monthly costs, and keep an emergency reserve. This worksheet is a planning aid, not an official proof-of-funds calculation.
 
 ## 6. Organize your documents
 
@@ -153,7 +174,7 @@ Permanent residence applicants arriving to complete their landing process should
 
 If you are immigrating permanently, prepare a detailed list of goods accompanying you and goods arriving later, as instructed by the Canada Border Services Agency (CBSA). If you bring more than CAN$10,000 in currency or monetary instruments, you must report it to the appropriate border official. Reporting the funds is not the same as paying a tax on them.
 
-See [IRCC's newcomer border-crossing checklist](https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/border-crossing.html) and [CBSA guidance on reporting currency](https://www.cbsa-asfc.gc.ca/travel-voyage/ttd-vdd-eng.html).
+See [IRCC's newcomer border-crossing checklist](https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/border-crossing.html) and [CBSA guidance on reporting currency](https://www.cbsa-asfc.gc.ca/travel-voyage/ttd-vdd-eng.html). The CAN$10,000 threshold is a reporting requirement, not a limit on how much money you may bring. It applies to currency and specified monetary instruments, including certain cheques and bank drafts.
 
 ## 7. What to do in your first days and weeks
 
@@ -173,15 +194,15 @@ Official information: [Apply for a SIN](https://www.canada.ca/en/employment-soci
 
 ### Arrange provincial or territorial health coverage
 
-Public health insurance is administered by provinces and territories. Eligibility, enrolment steps and coverage start dates differ. Some jurisdictions may have a waiting period, so check the health ministry for the province or territory where you will live and consider private insurance for any gap.
+Public health insurance is administered by provinces and territories. Eligibility, enrolment steps and coverage start dates differ. Some provincial and territorial programs may not cover some newcomers for the first three months. Check the health ministry for the province or territory where you will live as soon as you arrive, and consider private insurance if there is a waiting period or a gap in coverage.
 
 Do not assume that every service, prescription, dental treatment or ambulance expense is covered by a provincial health plan.
 
 ### Open a bank account
 
-Compare monthly fees, transaction limits, ATM access, transfer costs and newcomer offers before choosing an account. Banks must verify your identity, and acceptable identification can vary by the circumstances. Ask the bank what original documents it will accept before visiting a branch.
+Compare monthly fees, transaction limits, ATM access, transfer costs and newcomer offers before choosing an account. Banks must verify your identity and generally require original identification, not photocopies. Federal rules provide more than one way to establish identity; acceptable documents depend on the option you use and your circumstances. You do not have to be a Canadian citizen to open an account if you meet the identification requirements. Contact the bank first to confirm which documents it will accept.
 
-The Financial Consumer Agency of Canada explains [how to open a bank account](https://www.canada.ca/en/financial-consumer-agency/services/banking/opening-bank-account.html).
+The Financial Consumer Agency of Canada explains [how to open a bank account and which identification may be accepted](https://www.canada.ca/en/financial-consumer-agency/services/banking/opening-bank-account.html).
 
 ### Find stable accommodation
 
@@ -191,7 +212,19 @@ If you need temporary accommodation first, avoid signing a long lease before you
 
 Eligible newcomers may be able to access free settlement services. These organizations can help with job searches, language training, housing information, credential recognition and connecting with the local community. Eligibility rules and time limits apply and have changed, so check the current criteria.
 
-Use [IRCC's newcomer services finder](https://ircc.canada.ca/english/newcomers/services/). Eligibility is not universal. As of April 1, 2026, IRCC changed the period during which economic-class permanent residents can access certain federally funded settlement services. Check the current eligibility rules before relying on a service. Services in Quebec are organized separately; use the Quebec-specific resources linked by IRCC.
+Use [IRCC's newcomer services finder](https://ircc.canada.ca/english/newcomers/services/) and check [the detailed eligibility rules](https://www.canada.ca/en/immigration-refugees-citizenship/services/settle-canada/newcomer-services/eligibility.html). Eligibility is not universal. Starting April 1, 2026, economic-class permanent residents can access these services for up to 6 years from the date they became permanent residents; starting April 1, 2027, the limit becomes 5 years. The change also applies to economic-class permanent residents who became permanent residents before April 1, 2026. Other eligible newcomer groups have different rules. Services in Quebec are organized separately; use the Quebec-specific resources linked by IRCC.
+
+### A practical first-month sequence
+
+Your priorities will depend on your immigration status, family and province, but this sequence can help you avoid trying to do everything at once.
+
+**First few days:** Keep your passport and immigration documents secure, confirm the conditions of your status, arrange a reliable phone connection and temporary accommodation, and identify the nearest urgent and routine healthcare options.
+
+**First one to two weeks:** Apply for a SIN if you are authorized to work and need one, apply for provincial or territorial health coverage if eligible, open a bank account, and begin viewing longer-term housing. Keep copies of applications and confirmation numbers.
+
+**Weeks three and four:** Contact settlement services if eligible, register children with the local school board if needed, learn local transit and tenancy rules, and organize records for future tax filing. If you are job hunting, check whether your occupation is regulated and whether you need credential recognition or a Canadian-style résumé.
+
+This is a planning sequence, not a legal deadline list. Some steps can be completed online or before arrival; others depend on local rules and your status.
 
 ## 8. Understand taxes and government benefits
 
@@ -310,34 +343,3 @@ For more detailed help, continue with BG2C's [Express Entry beginner's guide](/a
 - [IRCC — Find free newcomer services and check eligibility](https://ircc.canada.ca/english/newcomers/services/)
 - [Service Canada — SIN information for temporary residents](https://www.canada.ca/en/employment-social-development/services/sin/temporary-residents.html)
 - [CRA — Completing a tax return for newcomers](https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants/completing-return-newcomers.html)
-
-## Editorial and SEO notes
-
-- **Article type:** Comprehensive beginner's guide / pillar article
-- **Intended category:** Life in Canada
-- **Primary keyword:** moving to Canada
-- **Secondary keywords:** how to move to Canada; immigrate to Canada; moving to Canada checklist; Canada immigration pathways; prepare to move to Canada; settling in Canada; newcomer guide Canada; first steps after arriving in Canada
-- **SEO title:** Moving to Canada: Complete Beginner's Guide (2026)
-- **Meta description:** Planning a move to Canada? Explore immigration routes, documents, costs, arrival steps, healthcare, banking, work and settling in.
-- **Suggested URL slug:** `complete-guide-moving-to-canada`
-- **Suggested H1:** Moving to Canada: A Complete Beginner's Guide
-- **Featured image:** None included in this draft. Do not use the image-search preview or any unverified third-party image. If a hero image is added, use an original BG2C-created image or an asset whose commercial-use permission and any applicable conditions have been checked. An AI-generated image is not automatically rights-clear; review the generation provider's current terms and avoid reproducing protected characters, logos, artwork or identifiable copyrighted photographs.
-- **Alt text:** Write descriptive alt text only after the final image has been selected.
-- **Verified internal links:** Express Entry beginner's guide; Life in Canada category. Other planned foundational articles should be linked after their pages exist.
-- **Last reviewed against official sources:** November 23, 2026. Dynamic program requirements must be rechecked immediately before publication.
-- **Commercial-use clearance:** No third-party images, charts, documents or copied source text are embedded in this draft. Government pages are linked as references; their facts are paraphrased in original wording. No separate permission to reproduce government page content is claimed.
-- **Byline:** Use the site's actual author/editorial byline. Do not invent credentials.
-
-## Publication and monetization-readiness assessment
-
-| Criterion | Assessment |
-|---|---|
-| Originality and distinct reader value | Pass — independently structured as an end-to-end moving guide |
-| Accuracy and source verification | Pass with ongoing review — core claims checked against official sources; program rules remain time-sensitive |
-| Completeness and search intent | Pass — covers planning, status, arrival and settlement |
-| Trust and transparency | Pass — limitations and official sources disclosed |
-| Citations and internal links | Needs attention — verify all URLs and category slug in the deployed site before publishing |
-| Image rights and alt text | Pass for current text-only draft — no unverified image is embedded; add a hero image only after rights review |
-| Mobile readability and page presentation | Needs attention — draft has not yet been rendered on the live website |
-
-**Publication hold:** This remains an unpublished draft. Before publication, recheck time-sensitive IRCC/CRA requirements, validate the internal article and category routes against the live site, and render-test desktop and mobile. A featured image is optional; do not delay publication merely to add one. If an image or graphic is added, use an original asset or a clearly commercially permitted asset. Do not reproduce third-party government graphics, forms, charts or document pages without confirming the applicable reuse terms.
