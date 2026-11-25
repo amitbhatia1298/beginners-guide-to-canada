@@ -211,10 +211,6 @@ For a broad comparison of all major PR options, see BG2C's [Canada immigration p
 There is no single PNP application form. The correct steps depend on the province and stream.
 
 
-![Five broad stages in researching and applying through a Provincial Nominee Program stream](/assets/images/articles/pnp-application-steps.svg)
-
-*The exact steps depend on the provincial stream and whether it is Express Entry-aligned or non-Express Entry.*
-
 ### Step 1: Choose a province where you genuinely intend to settle
 
 Compare employment opportunities, the occupation you want to pursue, family connections, language, cost of living and the practical realities of living there. Do not choose a province only because a stream appears easier if you have no intention of settling there.
@@ -379,7 +375,7 @@ Before paying a fee or submitting an application, make sure you can answer:
 - **Meta description:** Understand Canada's Provincial Nominee Program, including provincial streams, eligibility, Express Entry and non-Express Entry routes, application steps and common mistakes.
 - **Suggested slug:** `provincial-nominee-program-canada-guide`.
 - **Suggested H1:** Provincial Nominee Program (PNP) Canada: A Complete Beginner's Guide.
-- **Featured image:** No image embedded. Suggested original BG2C graphic showing a simplified Canada map with province and territory labels, created from original design work and verified commercial-use assets only. Alt text: "Map illustrating Canada's provincial and territorial nominee programs."
+- **Featured image:** Original BG2C Canadian mountain-lake hero image embedded. Supporting image: provincial and territorial PNP map embedded. Both use BG2C-owned original artwork; no third-party branding or promotional content.
 - **Internal links:** Article #1 moving guide; Article #2 immigration pathways; existing Express Entry guide; existing CRS explainer. Article #2 and this article are both drafts; verify links when they are published.
 - **Last verified:** November 24, 2026.
 - **Commercial rights:** No third-party images, charts or documents embedded. All explanations are written in original wording; official sources are linked.
