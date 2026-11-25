@@ -26,6 +26,11 @@ This guide explains how the system works, what the two application routes mean, 
 
 **Information checked: November 24, 2026.** Provincial streams and intake status can change quickly. Confirm the current rules on both the province or territory's official website and IRCC's federal instructions before making a decision.
 
+![Illustrated Canadian mountain lake and signpost introducing the Provincial Nominee Program](/assets/images/articles/pnp-canada-hero.svg)
+
+*The PNP is a collection of province- and territory-led streams, not one identical program across Canada.*
+
+
 ## In this guide
 
 - [What is the Provincial Nominee Program?](#what-is-the-provincial-nominee-program)
@@ -110,6 +115,11 @@ Most provinces and territories operate PNP streams, but the arrangements are not
 | Northwest Territories | Has territorial nominee streams |
 | Quebec | Does not participate in the PNP; it has its own selection programs |
 | Nunavut | Does not have a PNP |
+
+
+![List of the nine provinces other than Quebec and the two territories that operate nominee programs, with Quebec and Nunavut identified separately](/assets/images/articles/pnp-provinces-territories.svg)
+
+*Quebec uses its own economic selection system, while Nunavut does not have a PNP. Always verify current stream details with the relevant jurisdiction.*
 
 IRCC's current PNP page links to the participating jurisdictions' program websites. Use those official pages to check streams and current intake. Do not rely on an old blog post that lists a stream as open; a province can pause, change, cap or close an intake.
 
@@ -198,6 +208,11 @@ For a broad comparison of all major PR options, see BG2C's [Canada immigration p
 ## How to research and apply for a nomination
 
 There is no single PNP application form. The correct steps depend on the province and stream.
+
+
+![Five broad stages in researching and applying through a Provincial Nominee Program stream](/assets/images/articles/pnp-application-steps.svg)
+
+*The exact steps depend on the provincial stream and whether it is Express Entry-aligned or non-Express Entry.*
 
 ### Step 1: Choose a province where you genuinely intend to settle
 
