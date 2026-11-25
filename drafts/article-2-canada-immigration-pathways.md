@@ -24,6 +24,11 @@ Rather than searching for the “easiest” program, first understand what each 
 
 **Information checked: November 24, 2026.** Immigration programs, intake status, selection priorities and application requirements can change. Always confirm the current rules with Immigration, Refugees and Citizenship Canada (IRCC) and, where relevant, the province or territory before paying fees, accepting a job or submitting an application.
 
+![Illustrated Toronto skyline representing the different routes people can take toward permanent residence in Canada](/assets/images/articles/canada-immigration-pathways-hero.svg)
+
+*Canada has several permanent residence pathways. The right option depends on your circumstances and the program's current requirements.*
+
+
 ## In this guide
 
 - [Start by understanding your immigration goal](#start-by-understanding-your-immigration-goal)
@@ -85,6 +90,11 @@ Canada's immigration system includes several broad categories. The main ones are
 | Humanitarian and other | Certain exceptional or special circumstances under specific legal provisions or public policies | Humanitarian and compassionate applications and designated special measures |
 
 These categories are not interchangeable. Someone seeking work-based immigration generally needs an economic program; someone who fears persecution must understand refugee protection rules.
+
+![Overview of Canada's main immigration pathways, including Express Entry, provincial nomination, Atlantic, family, Quebec and other routes](/assets/images/articles/canada-immigration-pathways-options.svg)
+
+*The main pathways serve different purposes and have different eligibility rules.*
+
 
 The 2027–2029 Immigration Levels Plan sets 380,000 permanent resident admissions annually, with 64.4% allocated to economic immigration. These are planning targets, not individual eligibility criteria or a promise of selection. The plan also sets separate family, refugee and humanitarian categories.
 
@@ -212,6 +222,11 @@ Before choosing a temporary route because you hope it will lead to PR, research 
 
 ## How to compare pathways for your situation
 
+
+
+![Side-by-side overview of federal Express Entry and the province-led Provincial Nominee Program, including the 600 CRS points available for an eligible Express Entry-linked nomination](/assets/images/articles/express-entry-vs-pnp-comparison.svg)
+
+*An Express Entry-linked nomination can add 600 CRS points; a non-Express Entry PNP nomination follows a separate federal process.*
 Use the following table as a first screening tool. It is not an eligibility assessment.
 
 | Your circumstances or goal | Pathways worth researching first | Important question |
