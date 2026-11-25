@@ -27,7 +27,6 @@ This guide explains how the system works, what the two application routes mean, 
 
 **Information checked: November 24, 2026.** Provincial streams and intake status can change quickly. Confirm the current rules on both the province or territory's official website and IRCC's federal instructions before making a decision.
 
-![Illustrated Canadian mountain lake and signpost introducing the Provincial Nominee Program](/assets/images/articles/pnp-canada-hero.png)
 
 *The PNP is a collection of province- and territory-led streams, not one identical program across Canada.*
 
