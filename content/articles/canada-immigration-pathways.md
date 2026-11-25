@@ -3,7 +3,7 @@ title: "Canada's Immigration Pathways Explained: Which Route to Permanent Reside
 date: 2026-11-24
 category: "Immigration & Permanent Residence"
 description: "Compare Canada's main permanent residence pathways, including Express Entry, PNP, family sponsorship, Atlantic and community programs, Quebec and humanitarian routes."
-image: "/assets/images/articles/canada-immigration-pathways-hero.svg"
+image: "/assets/images/articles/canada-immigration-pathways-hero.png"
 primary_keyword: "Canada immigration pathways"
 secondary_keywords:
   - "ways to immigrate to Canada"
@@ -25,7 +25,7 @@ Rather than searching for the “easiest” program, first understand what each 
 
 **Information checked: November 24, 2026.** Immigration programs, intake status, selection priorities and application requirements can change. Always confirm the current rules with Immigration, Refugees and Citizenship Canada (IRCC) and, where relevant, the province or territory before paying fees, accepting a job or submitting an application.
 
-![Illustrated Toronto skyline representing the different routes people can take toward permanent residence in Canada](/assets/images/articles/canada-immigration-pathways-hero.svg)
+![Illustrated Toronto skyline representing the different routes people can take toward permanent residence in Canada](/assets/images/articles/canada-immigration-pathways-hero.png)
 
 *Canada has several permanent residence pathways. The right option depends on your circumstances and the program's current requirements.*
 
@@ -221,7 +221,7 @@ Before choosing a temporary route because you hope it will lead to PR, research 
 
 
 
-![Side-by-side overview of federal Express Entry and the province-led Provincial Nominee Program, including the 600 CRS points available for an eligible Express Entry-linked nomination](/assets/images/articles/express-entry-vs-pnp-comparison.svg)
+![Side-by-side overview of federal Express Entry and the province-led Provincial Nominee Program, including the 600 CRS points available for an eligible Express Entry-linked nomination](/assets/images/articles/express-entry-vs-pnp-comparison.png)
 
 *An Express Entry-linked nomination can add 600 CRS points; a non-Express Entry PNP nomination follows a separate federal process.*
 Use the following table as a first screening tool. It is not an eligibility assessment.
