@@ -172,6 +172,7 @@ for (const article of articles) {
   const html = `<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+${googleAnalyticsTag}
 <title>${escapeHTML(article.title)} | Beginners Guide to Canada</title>
 <meta name="description" content="${escapeHTML(article.description)}">
 <link rel="canonical" href="https://beginnersguidetocanada.ca/articles/${encodeURIComponent(article.slug)}/">
