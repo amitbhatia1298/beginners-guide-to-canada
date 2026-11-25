@@ -25,7 +25,6 @@ Rather than searching for the “easiest” program, first understand what each 
 
 **Information checked: November 24, 2026.** Immigration programs, intake status, selection priorities and application requirements can change. Always confirm the current rules with Immigration, Refugees and Citizenship Canada (IRCC) and, where relevant, the province or territory before paying fees, accepting a job or submitting an application.
 
-![Illustrated Toronto skyline representing the different routes people can take toward permanent residence in Canada](/assets/images/articles/canada-immigration-pathways-hero.png)
 
 *Canada has several permanent residence pathways. The right option depends on your circumstances and the program's current requirements.*
 
@@ -338,34 +337,3 @@ Immigration decisions can affect your family and finances. Verify the current ru
 - [Government of Quebec — Immigration](https://www.quebec.ca/en/immigration)
 
 ---
-
-## Internal editorial and SEO notes — not part of the published article
-
-- **Article type:** Comprehensive foundational explainer / pathway comparison.
-- **Category:** Immigration & Permanent Residence.
-- **Primary keyword:** Canada immigration pathways.
-- **Secondary keywords:** ways to immigrate to Canada; Canadian permanent residence programs; Express Entry vs PNP; family sponsorship Canada; Atlantic Immigration Program; Quebec immigration; rural community immigration.
-- **SEO title:** Canada Immigration Pathways: Compare Your PR Options.
-- **Meta description:** Compare Canada's main permanent residence pathways, including Express Entry, PNP, family sponsorship, Atlantic and community programs, Quebec and humanitarian routes.
-- **Suggested slug:** `canada-immigration-pathways`.
-- **Suggested H1:** Canada's Immigration Pathways Explained: Which Route to Permanent Residence Is Right for You?
-- **Featured image:** No image embedded. If one is later added, commission an original BG2C illustration or use an asset with verified commercial-use rights. Suggested alt text: "Overview of different pathways to permanent residence in Canada."
-- **Internal links:** Article #1 moving guide; existing Express Entry guide; existing CRS explainer; planned Article #3 PNP guide. Confirm routes after the drafts are approved and published.
-- **Last verified:** November 24, 2026.
-- **Commercial rights:** No third-party image, chart or document reproduced. Facts are summarized in original wording and linked to official government pages.
-- **Editorial caveat:** This is general information, not legal advice. The PGP pause, caregiver pilot status, Start-up Visa pause and January 2027 RCIP transition are time-sensitive and must be checked again immediately before publication.
-- **Reader-facing word count:** approximately 3,500 words, including the table of contents and references.
-- **Publication status:** Unpublished draft. Do not publish without editorial review and user approval.
-
-### Publication and monetization-readiness assessment
-
-| Check | Assessment |
-|---|---|
-| Distinct reader value | Pass — broad pathway map, not a duplicate of the Express Entry guide |
-| Accuracy and sourcing | Needs final live recheck before publication — several program statuses change |
-| Completeness | Pass for a foundational pathway overview |
-| Trust and transparency | Pass — general-information disclaimer and clear program distinctions |
-| Internal links | Needs attention — Article #3 is a draft; links become live after approval and publication |
-| Image rights | Pass — no uncleared image used |
-| Mobile presentation | Pending — inspect after page is generated |
-| Publication decision | Hold for review; not published |
