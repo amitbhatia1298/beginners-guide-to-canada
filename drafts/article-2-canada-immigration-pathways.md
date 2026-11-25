@@ -92,10 +92,6 @@ Canada's immigration system includes several broad categories. The main ones are
 
 These categories are not interchangeable. Someone seeking work-based immigration generally needs an economic program; someone who fears persecution must understand refugee protection rules.
 
-![Overview of Canada's main immigration pathways, including Express Entry, provincial nomination, Atlantic, family, Quebec and other routes](/assets/images/articles/canada-immigration-pathways-options.svg)
-
-*The main pathways serve different purposes and have different eligibility rules.*
-
 
 The 2027–2029 Immigration Levels Plan sets 380,000 permanent resident admissions annually, with 64.4% allocated to economic immigration. These are planning targets, not individual eligibility criteria or a promise of selection. The plan also sets separate family, refugee and humanitarian categories.
 
