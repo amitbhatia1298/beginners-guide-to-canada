@@ -3,6 +3,7 @@ title: "Canada's Immigration Pathways Explained: Which Route to Permanent Reside
 date: 2026-11-24
 category: "Immigration & Permanent Residence"
 description: "Compare Canada's main permanent residence pathways, including Express Entry, PNP, family sponsorship, Atlantic and community programs, Quebec and humanitarian routes."
+image: "/assets/images/articles/canada-immigration-pathways-hero.svg"
 primary_keyword: "Canada immigration pathways"
 secondary_keywords:
   - "ways to immigrate to Canada"
