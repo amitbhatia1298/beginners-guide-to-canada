@@ -3,6 +3,7 @@ title: "Provincial Nominee Program (PNP) Canada: A Complete Beginner's Guide"
 date: 2026-11-24
 category: "Immigration & Permanent Residence"
 description: "Understand Canada's Provincial Nominee Program, including provincial streams, eligibility, Express Entry and non-Express Entry routes, application steps and common mistakes."
+image: "/assets/images/articles/pnp-canada-hero.svg"
 primary_keyword: "Provincial Nominee Program Canada"
 secondary_keywords:
   - "Canada PNP"
