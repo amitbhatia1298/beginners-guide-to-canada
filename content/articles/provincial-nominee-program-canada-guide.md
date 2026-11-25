@@ -3,7 +3,7 @@ title: "Provincial Nominee Program (PNP) Canada: A Complete Beginner's Guide"
 date: 2026-11-24
 category: "Immigration & Permanent Residence"
 description: "Understand Canada's Provincial Nominee Program, including provincial streams, eligibility, Express Entry and non-Express Entry routes, application steps and common mistakes."
-image: "/assets/images/articles/pnp-canada-hero.svg"
+image: "/assets/images/articles/pnp-canada-hero.png"
 primary_keyword: "Provincial Nominee Program Canada"
 secondary_keywords:
   - "Canada PNP"
@@ -27,7 +27,7 @@ This guide explains how the system works, what the two application routes mean, 
 
 **Information checked: November 24, 2026.** Provincial streams and intake status can change quickly. Confirm the current rules on both the province or territory's official website and IRCC's federal instructions before making a decision.
 
-![Illustrated Canadian mountain lake and signpost introducing the Provincial Nominee Program](/assets/images/articles/pnp-canada-hero.svg)
+![Illustrated Canadian mountain lake and signpost introducing the Provincial Nominee Program](/assets/images/articles/pnp-canada-hero.png)
 
 *The PNP is a collection of province- and territory-led streams, not one identical program across Canada.*
 
@@ -118,7 +118,7 @@ Most provinces and territories operate PNP streams, but the arrangements are not
 | Nunavut | Does not have a PNP |
 
 
-![List of the nine provinces other than Quebec and the two territories that operate nominee programs, with Quebec and Nunavut identified separately](/assets/images/articles/pnp-provinces-territories.svg)
+![List of the nine provinces other than Quebec and the two territories that operate nominee programs, with Quebec and Nunavut identified separately](/assets/images/articles/pnp-provinces-territories.png)
 
 *Quebec uses its own economic selection system, while Nunavut does not have a PNP. Always verify current stream details with the relevant jurisdiction.*
 
