@@ -25,7 +25,6 @@ Rather than searching for the “easiest” program, first understand what each 
 
 **Information checked: November 24, 2026.** Immigration programs, intake status, selection priorities and application requirements can change. Always confirm the current rules with Immigration, Refugees and Citizenship Canada (IRCC) and, where relevant, the province or territory before paying fees, accepting a job or submitting an application.
 
-![Illustrated Toronto skyline representing the different routes people can take toward permanent residence in Canada](/assets/images/articles/canada-immigration-pathways-hero.png)
 
 *Canada has several permanent residence pathways. The right option depends on your circumstances and the program's current requirements.*
 
