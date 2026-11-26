@@ -3,7 +3,6 @@ title: "How to Find a Job in Canada: A Complete Guide for Newcomers"
 date: 2026-11-25
 category: "Work & Careers"
 description: "Learn how to find work in Canada as a newcomer, prepare a Canadian-style resume, use Job Bank, understand licensing and avoid job scams."
-image: "/assets/images/articles/finding-a-job-in-canada-hero.png"
 primary_keyword: "how to find a job in Canada"
 secondary_keywords:
   - "jobs in Canada for newcomers"
