@@ -1,7 +1,7 @@
 ---
 title: "How to Find a Job in Canada: A Complete Guide for Newcomers"
 date: 2026-11-25
-image: "/assets/images/articles/how-to-find-a-job-canada-hero.svg"
+image: "/assets/images/articles/article-5-job-search-hero.svg"
 image_alt: "A newcomer preparing for a Canadian job search at a laptop."
 category: "Work & Careers"
 description: "Learn how to find work in Canada as a newcomer, prepare a Canadian-style resume, use Job Bank, understand licensing and avoid job scams."
@@ -109,7 +109,7 @@ There is no universal legal rule. Keep it concise and relevant. A recent graduat
 
 ### A simple résumé bullet-point example
 
-![Illustration of a résumé document with a clear, organized checklist](/assets/images/articles/canadian-resume-checklist.svg)
+![Illustration of a résumé document with a clear, organized checklist](/assets/images/articles/article-5-resume-checklist.svg)
 
 
 A useful bullet explains the work, the scale or context and the result. For example:
