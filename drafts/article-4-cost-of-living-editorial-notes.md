@@ -8,7 +8,7 @@
 - Meta description: Understand the cost of living in Canada, from rent and groceries to transport, utilities, taxes and realistic newcomer budgets.
 - Suggested slug: cost-of-living-in-canada.
 - Suggested H1: Cost of Living in Canada: A Complete Guide for Newcomers.
-- Featured image: Original BG2C SVG illustration at /assets/images/articles/cost-of-living-canada-hero.svg. Supporting image: /assets/images/articles/canada-grocery-budget.svg. Alt text is stored in article frontmatter and the supporting image Markdown.
+- Featured image: Original BG2C SVG illustration at /assets/images/articles/article-4-cost-of-living-hero.svg. Supporting image: /assets/images/articles/article-4-grocery-budget.svg. Alt text is stored in article frontmatter and the supporting image Markdown.
 - Internal links to verify on publication: Moving to Canada guide; immigration pathways; PNP guide; future banking, tax, housing and healthcare guides.
 - Sources checked: Statistics Canada Survey of Household Spending 2023; Statistics Canada Quarterly Rent Statistics Q2 2026; CMHC 2026 Mid-Year Rental Market Update; CRA payroll calculator; Health Canada healthcare overview.
 - Last verified: November 25, 2026. Added October 2026 CPI (released November 16, 2026).
