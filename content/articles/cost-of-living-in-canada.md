@@ -3,7 +3,6 @@ title: "Cost of Living in Canada: A Complete Guide for Newcomers"
 date: 2026-11-25
 category: "Life in Canada"
 description: "Understand the cost of living in Canada, from rent and groceries to transport, utilities, taxes and realistic newcomer budgets."
-image: "/assets/images/articles/canada-cost-of-living-hero.png"
 primary_keyword: "cost of living in Canada"
 secondary_keywords:
   - "Canada monthly expenses"
