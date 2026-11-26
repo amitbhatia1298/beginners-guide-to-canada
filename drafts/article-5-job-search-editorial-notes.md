@@ -8,7 +8,7 @@
 - Meta description: Learn how to find work in Canada as a newcomer, prepare a Canadian-style resume, use Job Bank, understand licensing and avoid job scams.
 - Suggested slug: how-to-find-a-job-in-canada.
 - Suggested H1: How to Find a Job in Canada: A Complete Guide for Newcomers.
-- Featured image: Original BG2C SVG illustration at /assets/images/articles/how-to-find-a-job-canada-hero.svg. Supporting image: /assets/images/articles/canadian-resume-checklist.svg. Alt text is stored in article frontmatter and the supporting image Markdown.
+- Featured image: Original BG2C SVG illustration at /assets/images/articles/article-5-job-search-hero.svg. Supporting image: /assets/images/articles/article-5-resume-checklist.svg. Alt text is stored in article frontmatter and the supporting image Markdown.
 - Internal links to verify on publication: Moving to Canada guide; immigration pathways; future education/credential recognition and banking guides.
 - Sources checked: IRCC newcomer job-search guide; Job Bank newcomer and foreign-candidate resources; ESDC Foreign Credential Recognition; Job Bank wage search.
 - Last verified: November 25, 2026. Added October 2026 Labour Force Survey context (released November 6, 2026).
