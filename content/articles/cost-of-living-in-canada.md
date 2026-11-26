@@ -291,7 +291,7 @@ Start with housing and transport, because those decisions influence many other e
 - [Statistics Canada — Survey of Household Spending, 2023](https://www150.statcan.gc.ca/n1/daily-quotidien/250521/dq250521a-eng.htm)
 - [Statistics Canada — Quarterly rent statistics, Q2 2026](https://www150.statcan.gc.ca/n1/daily-quotidien/260909/dq260909c-eng.pdf)
 - [CMHC — 2026 Mid-Year Rental Market Update](https://www.cmhc-schl.gc.ca/en/observer/2026/2026-mid-year-rental-market-update)
-- [Statistics Canada — Consumer Price Index](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810000401)
+- [Statistics Canada — Consumer Price Index, October 2026](https://www150.statcan.gc.ca/n1/daily-quotidien/261116/dq261116a-eng.htm)
 - [Canada Revenue Agency — Payroll Deductions Online Calculator](https://www.canada.ca/en/revenue-agency/services/e-services/e-services-businesses/payroll-deductions-online-calculator.html)
 - [Government of Canada — Health care in Canada](https://www.canada.ca/en/health-canada/services/canada-health-care-system.html)
 
