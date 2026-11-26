@@ -2,6 +2,7 @@
 title: "Cost of Living in Canada: A Complete Guide for Newcomers"
 date: 2026-11-25
 image: "/assets/images/articles/cost-of-living-canada-hero.svg"
+image_alt: "A newcomer household planning Canadian living costs with a notebook, calculator and city view."
 category: "Life in Canada"
 description: "Understand the cost of living in Canada, from rent and groceries to transport, utilities, taxes and realistic newcomer budgets."
 primary_keyword: "cost of living in Canada"
@@ -74,6 +75,9 @@ Statistics Canada's second-quarter 2026 data reported an average asking rent of 
 Before sending money, view the unit in person or arrange a reliable live viewing, verify the landlord or property manager, read the lease and understand the deposit rules in your province. Be cautious of unusually cheap listings, pressure to pay immediately, requests for gift cards or wire transfers, and people who refuse to show the property.
 
 ## Groceries and food
+
+![Illustration of a grocery basket with fresh produce, representing weekly food budgeting](/assets/images/articles/canada-grocery-budget.svg)
+
 
 Food spending depends on household size, dietary preferences, cooking habits and where you shop. A person who prepares most meals at home will usually have a different budget from someone who frequently buys lunch near work or orders delivery.
 
@@ -271,6 +275,10 @@ They can be for some products and larger households, but membership fees, packag
 ### How should I budget before I have a Canadian job?
 
 Estimate your essential expenses, confirm your legal ability to work, plan for a realistic job-search period and keep a reserve for unexpected costs. Do not assume you will find work immediately or receive a particular salary.
+
+## Related BG2C guides
+
+If you are still planning your move, start with our [Moving to Canada: A Complete Beginner's Guide](/articles/complete-guide-moving-to-canada/). For an overview of routes to permanent residence, see [Canada's Immigration Pathways Explained](/articles/canada-immigration-pathways/). If employment income is part of your plan, continue with our [guide to finding a job in Canada](/articles/how-to-find-a-job-in-canada/).
 
 ## Conclusion: build a budget around your actual life
 
