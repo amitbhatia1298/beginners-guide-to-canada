@@ -167,7 +167,6 @@ Add the rows to calculate your expected monthly outflow. Then compare that figur
 
 Some costs arrive quarterly, annually or unexpectedly. Convert them into a monthly amount so they do not surprise you. Examples include vehicle registration, winter tires, dental work, school supplies, annual memberships, travel to visit family and replacing a laptop or phone. If you have a car, keep a separate repair reserve; if you rent, plan for moving costs and possible rent increases within the legal rules that apply to your province.
 
-A useful test is to run two budgets: a normal month and a difficult month. In the difficult-month version, allow for higher heating bills, a medical or dental expense, reduced work hours or an urgent trip. This is not pessimism; it is a way to check whether your plan has enough room to absorb ordinary surprises.
 
 
 The following are **illustrative planning scenarios, not official averages or price quotes**. They are deliberately broad because actual rent, utilities, food, transport and household needs vary widely. Replace each assumption with current local quotes before making a decision.
