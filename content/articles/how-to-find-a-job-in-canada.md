@@ -54,7 +54,7 @@ If you are outside Canada, do not assume that applying for a job will give you p
 
 ## Understand the Canadian job market
 
-Start by researching the occupation you want, not just searching for any job with a familiar title. Job titles can differ between countries, and employers may describe similar work using different terminology.
+Start by researching the occupation you want, not just searching for any job with a familiar title. The national unemployment rate was 6.7% in October 2026, while Ontario's rate was 7.3%. These are broad labour-market indicators, not a forecast of your personal chance of finding work; conditions vary by occupation, city, experience and time of year. Use them as context, then investigate demand in your own field. Job titles can differ between countries, and employers may describe similar work using different terminology.
 
 Use the Government of Canada's [Job Bank](https://www.jobbank.gc.ca/) to research job duties, wages, education requirements and employment outlooks. Compare the same occupation across provinces and cities. Wage figures are estimates based on labour-market data; they are not guaranteed offers or a promise of what a particular employer will pay.
 
@@ -299,6 +299,7 @@ Use official job resources, employer websites, professional networks and newcome
 - [Job Bank — Foreign candidates from outside Canada](https://www.jobbank.gc.ca/findajob/foreign-candidates)
 - [Employment and Social Development Canada — Foreign Credential Recognition](https://www.canada.ca/en/employment-social-development/programs/foreign-credential-recognition.html)
 - [Job Bank — Search wages](https://www.jobbank.gc.ca/wagessearch.xhtml)
+- [Statistics Canada — Labour Force Survey, October 2026](https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm)
 - [Government of Canada — Social Insurance Number](https://www.canada.ca/en/employment-social-development/services/sin.html)
 - [Government of Canada — Federal public service jobs](https://www.canada.ca/en/services/jobs/opportunities/government.html)
 
