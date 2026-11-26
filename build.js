@@ -30,6 +30,7 @@ const articles = fs.existsSync(folder)
         category: data.category || "Life in Canada",
         date: data.date ? new Date(data.date) : new Date(0),
         image: data.image || "",
+        imageAlt: data.image_alt || data.title || "",
         slug: path.basename(file, ".md"),
         body: (() => {
           // Generate stable heading IDs so article table-of-contents links work
@@ -180,7 +181,7 @@ ${googleAnalyticsTag}
 <header><a href="/">← Beginners Guide to Canada</a></header>
 <main><p class="meta">${escapeHTML(article.category)} · ${escapeHTML(date)}</p>
 <h1>${escapeHTML(article.title)}</h1>
-${article.image ? `<img src="${escapeHTML(article.image)}" alt="">` : ""}
+${article.image ? `<img src="${escapeHTML(article.image)}" alt="${escapeHTML(article.imageAlt)}" loading="lazy" decoding="async">` : ""}
 ${article.body}
 <p><a href="/">← Back to homepage</a></p>
 </main>
