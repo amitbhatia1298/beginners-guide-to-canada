@@ -52,6 +52,8 @@ Cost of living is the amount you need to pay for the goods and services required
 
 You should also distinguish monthly living costs from arrival costs. A rental deposit, temporary accommodation, winter clothing, furniture and application-related expenses can make the first few months substantially more expensive than a normal month.
 
+For a current snapshot of price movement, Statistics Canada's October 2026 Consumer Price Index rose 3.1% compared with October 2025. Prices for food purchased from stores rose 2.0% year over year and the shelter component rose 1.4%. These figures describe average price changes across the economy; they do not tell you what a specific apartment, grocery basket or household will cost. Your own spending pattern can differ considerably.
+
 Statistics Canada's Survey of Household Spending found that Canadian households spent an average of $76,750 on goods and services in 2023. Shelter represented 32.1% of consumption spending, transportation 15.8%, and food 15.7%. These are national household averages from 2023—not a recommended budget for a newcomer or a current 2026 price list. Household size, income and location make a major difference. [Read Statistics Canada's household spending results](https://www150.statcan.gc.ca/n1/daily-quotidien/250521/dq250521a-eng.htm).
 
 ## Housing: usually the biggest expense
