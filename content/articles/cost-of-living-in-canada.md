@@ -1,7 +1,7 @@
 ---
 title: "Cost of Living in Canada: A Complete Guide for Newcomers"
 date: 2026-11-25
-image: "/assets/images/articles/cost-of-living-canada-hero.svg"
+image: "/assets/images/articles/article-4-cost-of-living-hero.svg"
 image_alt: "A newcomer household planning Canadian living costs with a notebook, calculator and city view."
 category: "Life in Canada"
 description: "Understand the cost of living in Canada, from rent and groceries to transport, utilities, taxes and realistic newcomer budgets."
@@ -78,7 +78,7 @@ Before sending money, view the unit in person or arrange a reliable live viewing
 
 ## Groceries and food
 
-![Illustration of a grocery basket with fresh produce, representing weekly food budgeting](/assets/images/articles/canada-grocery-budget.svg)
+![Illustration of a grocery basket with fresh produce, representing weekly food budgeting](/assets/images/articles/article-4-grocery-budget.svg)
 
 
 Food spending depends on household size, dietary preferences, cooking habits and where you shop. A person who prepares most meals at home will usually have a different budget from someone who frequently buys lunch near work or orders delivery.
