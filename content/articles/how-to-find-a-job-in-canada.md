@@ -2,6 +2,7 @@
 title: "How to Find a Job in Canada: A Complete Guide for Newcomers"
 date: 2026-11-25
 image: "/assets/images/articles/how-to-find-a-job-canada-hero.svg"
+image_alt: "A newcomer preparing for a Canadian job search at a laptop."
 category: "Work & Careers"
 description: "Learn how to find work in Canada as a newcomer, prepare a Canadian-style resume, use Job Bank, understand licensing and avoid job scams."
 primary_keyword: "how to find a job in Canada"
@@ -107,6 +108,9 @@ For most Canadian job applications, a photograph, date of birth, marital status,
 There is no universal legal rule. Keep it concise and relevant. A recent graduate may need less space than a senior specialist with a long career. The goal is not to force every applicant into exactly one page; it is to make the most relevant evidence easy to find.
 
 ### A simple résumé bullet-point example
+
+![Illustration of a résumé document with a clear, organized checklist](/assets/images/articles/canadian-resume-checklist.svg)
+
 
 A useful bullet explains the work, the scale or context and the result. For example:
 
@@ -277,6 +281,10 @@ A visitor visa does not normally authorize employment. Check the official work-p
 ### How many jobs should I apply for each week?
 
 There is no universal target. Apply consistently to roles that fit your skills and authorization. A smaller number of well-targeted applications may be more useful than a large number of generic submissions. Track your results and adjust your approach.
+
+## Related BG2C guides
+
+If you are still preparing to move, our [Moving to Canada: A Complete Beginner's Guide](/articles/complete-guide-moving-to-canada/) covers arrival planning and settlement basics. If you are comparing immigration options, read [Canada's Immigration Pathways Explained](/articles/canada-immigration-pathways/). For a realistic view of expenses after you arrive, see our [Cost of Living in Canada guide](/articles/cost-of-living-in-canada/).
 
 ## Conclusion: make your job search a structured project
 
