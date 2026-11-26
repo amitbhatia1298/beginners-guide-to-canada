@@ -1,6 +1,7 @@
 ---
 title: "How to Find a Job in Canada: A Complete Guide for Newcomers"
 date: 2026-11-25
+image: "/assets/images/articles/how-to-find-a-job-canada-hero.svg"
 category: "Work & Careers"
 description: "Learn how to find work in Canada as a newcomer, prepare a Canadian-style resume, use Job Bank, understand licensing and avoid job scams."
 primary_keyword: "how to find a job in Canada"
@@ -105,6 +106,17 @@ For most Canadian job applications, a photograph, date of birth, marital status,
 
 There is no universal legal rule. Keep it concise and relevant. A recent graduate may need less space than a senior specialist with a long career. The goal is not to force every applicant into exactly one page; it is to make the most relevant evidence easy to find.
 
+### A simple résumé bullet-point example
+
+A useful bullet explains the work, the scale or context and the result. For example:
+
+- Weak: “Responsible for preparing reports.”
+- Stronger: “Prepared weekly performance reports for a 12-person operations team, checked source data and flagged exceptions before the monthly review.”
+
+The stronger version is useful because it gives an employer a clearer picture of the work. Only use numbers, results and tools that you can explain honestly in an interview. If you cannot quantify an achievement, describe the complexity, audience, frequency or outcome without inventing a metric.
+
+Before sending a résumé, check that dates are consistent, job titles are understandable, spelling is correct and the file opens properly. Save a clean PDF unless the employer asks for another format. Use a professional file name such as FirstName-LastName-Resume.pdf. Keep a master résumé with your complete history, then create a targeted version for each suitable vacancy.
+
 ## Write a focused cover letter
 
 A cover letter briefly connects your experience to the employer's needs. It should not repeat the résumé word for word.
@@ -145,6 +157,12 @@ Federal public-service opportunities are posted through [Jobs.gc.ca](https://www
 ### Recruitment agencies and job fairs
 
 A reputable recruiter can help connect employers and candidates, but verify the agency and understand who pays its fee. In many jurisdictions, charging workers recruitment fees is restricted or prohibited. Check the rules where you live and never pay someone who promises a guaranteed job or work permit.
+
+### Make a small, repeatable networking routine
+
+A manageable weekly routine is more effective than sending dozens of vague messages. For example, identify two employers in your field, follow one relevant industry association, attend one local or online event when practical, and contact one professional with a specific question. Keep the message short and respectful. Mention the connection or topic that prompted you to reach out, explain what you are trying to learn and make it easy for the person to decline.
+
+If you are new to Canada, settlement agencies may offer employment counselling, résumé workshops, mentoring, language assessment or referrals to sector-specific programs. Services and eligibility differ by provider and immigration status. Ask whether appointments are free, what documents to bring and whether the program serves people in your situation. If you are still outside Canada, check whether a pre-arrival service is available to you before travelling.
 
 ## Networking and the hidden job market
 
